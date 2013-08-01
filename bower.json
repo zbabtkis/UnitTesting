@@ -1,0 +1,16 @@
+{
+  "name": "Basic Budget",
+  "version": "0.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "qunit": "~1.12.0",
+    "requirejs": "~2.1.8",
+    "bootstrap-css": "~2.3.2",
+    "requirejs-domready": "~2.0.1"
+  }
+}
